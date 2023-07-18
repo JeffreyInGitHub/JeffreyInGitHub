@@ -1,4 +1,4 @@
-Hello, my account is ***`@JeffreyInGitHub`*** , I'm learnning abaout trainning AI.
+Hello, my account is ***`@JeffreyInGitHub`*** , and I'm learnning abaout trainning AI.
 - I’m interested in AI & soft.
 - **email**:  *jeffrey.dingding@outlook.com*
 
